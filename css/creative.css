@@ -16,6 +16,21 @@ h3 {
     font-weight: bolder;
 }
 
+#schedule {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-weight: 900;
+}
+
+#schedule > b {
+    font-size: 1.7em;
+}
+
+div.modal-header > h4 {
+    font-size: 2.5em;
+    text-align: center;
+}
+
 #services > div:nth-child(1) > div > div > i:hover {
     color: #F08F90;
     cursor: default;
